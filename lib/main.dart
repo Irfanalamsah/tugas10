@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:tugas_10/Login_screen.dart';
-import 'package:tugas_10/Dashboard_screen.dart';
+import 'package:form_login/Login_screen.dart';
+import 'package:form_login/Dashboard_screen.dart';
 
 void main() {
   runApp(const MyApp());
